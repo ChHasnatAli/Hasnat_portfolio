@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Hasnat Ali portfolio icon</title>
+  <rect width="64" height="64" rx="16" fill="#0b0d12"/>
+  <rect x="3" y="3" width="58" height="58" rx="13" fill="none" stroke="#3b82f6" stroke-width="3"/>
+  <path d="m25 20-12 12 12 12M39 20l12 12-12 12" fill="none" stroke="#f8fafc" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+  <path d="M36 15 28 49" fill="none" stroke="#60a5fa" stroke-linecap="round" stroke-width="4"/>
+</svg>
